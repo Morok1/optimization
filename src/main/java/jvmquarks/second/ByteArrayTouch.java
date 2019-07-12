@@ -1,5 +1,4 @@
-package jvmquarks;
-
+package jvmquarks.second;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.runner.Runner;
@@ -7,35 +6,41 @@ import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
 
+import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
 
-@Warmup(iterations = 10, time = 1, timeUnit = TimeUnit.SECONDS)
+@Warmup(iterations = 5, time = 1, timeUnit = TimeUnit.SECONDS)
 @Measurement(iterations = 5, time = 1, timeUnit = TimeUnit.SECONDS)
-@Fork(value = 1, jvmArgsPrepend = {"-XX:-UseBiasedLocking"})
+@Fork(value = 3, jvmArgsAppend = {"-Xmx1g", "-Xms1g"})
 @State(Scope.Benchmark)
 @BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.NANOSECONDS)
-public class LockRoach {
+public class ByteArrayTouch {
 
-    int x;
+    @Param({"1000",
+            "10000",
+            "1000000",
+            "10000000",
+            "100000000"})
+    int size;
+
+    byte[] mem;
+
+    @Setup
+    public void setup() {
+        mem = new byte[size];
+    }
 
     @Benchmark
-    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
-    public void test() {
-        for (int c = 0; c < 1000; c++) {
-            synchronized (this) {
-                x += 0x42;
-            }
-        }
+    public byte test() {
+        return mem[ThreadLocalRandom.current().nextInt(size)];
     }
 
     public static void main(String[] args) throws RunnerException {
         Options opt = new OptionsBuilder()
-                .include(LockRoach.class.getSimpleName())
+                .include(ByteArrayTouch.class.getSimpleName())
 //                .param("arg", "41", "42") // Use this to selectively constrain/override parameters
                 .build();
         new Runner(opt).run();
     }
-
-
 }
