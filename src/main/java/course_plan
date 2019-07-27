@@ -8,16 +8,19 @@ Shipilev presentation https://shipilev.net/talks/jeeconf-May2012-perfMethodology
 4 Bytecode
 5 Concurrency
 6 JIT optimization
-7
+7 Database and Enterprise performance.
 8 General optimization of data structures
 
 Labs
 1 Introduction.Goals.Main tools
-
-2 GC tuning 1 part
+2 GC tuning
 3 JMH
 4 Bytecode
 5 Concurrency
 6 JIT optimization
-7 GC tuning 2 part
+7 Database and Enterprise performance.
 8 General optimization of data structures
+
+
+Useful links
+tests https://github.com/jheusser/core-java-performance-examples/tree/master/src/test/java/com/google/code/java/core

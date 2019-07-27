@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f48f3e-500a-4f79-b8ed-d8ca2ac6ec46" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_plan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/os/developerinstrumten" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/os/jeeconf-May2012-perfMethodology.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/books/Charlie Hunt, Binu John - Java Performance - 2011.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/detail_plan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/course_plan" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/course_plan" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_plan" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course_plan" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/course_plan">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="548">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail_plan" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/detail_plan">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -93,15 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runner.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.18/jmh-core-1.18.jar!/org/openjdk/jmh/runner/Runner.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2745">
-              <caret line="243" column="30" selection-start-line="243" selection-start-column="30" selection-end-line="243" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BenchmarkListEntry.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.18/jmh-core-1.18.jar!/org/openjdk/jmh/runner/BenchmarkListEntry.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -155,6 +155,7 @@
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/os/developerinstrumten" />
         <option value="$PROJECT_DIR$/src/main/java/course_plan" />
+        <option value="$PROJECT_DIR$/src/main/java/detail_plan" />
       </list>
     </option>
   </component>
@@ -217,7 +218,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="os" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="optimization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmquarks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
@@ -243,11 +252,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/books" />
       <recent name="$PROJECT_DIR$/src/main/java/os" />
       <recent name="$PROJECT_DIR$/src/main/java/jvmquarks" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/books" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -382,16 +393,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562934519806</updated>
       <workItem from="1562934522280" duration="5904000" />
-      <workItem from="1564222405107" duration="2106000" />
+      <workItem from="1564222405107" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8010000" />
+    <option name="totallyTimeSpent" value="9102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -654,8 +664,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/course_plan">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="548">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/detail_plan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
