@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f48f3e-500a-4f79-b8ed-d8ca2ac6ec46" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/detail_plan" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/detail_plan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/labs/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_plan" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course_plan" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/course_plan">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="84" />
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -38,17 +37,17 @@
       <file leaf-file-name="detail_plan" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/detail_plan">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="First.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="First.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="174">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -153,8 +152,8 @@
         <option value="$PROJECT_DIR$/src/main/java/jvmquarks/forth/ArrayAlloc.java" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/os/developerinstrumten" />
-        <option value="$PROJECT_DIR$/src/main/java/course_plan" />
         <option value="$PROJECT_DIR$/src/main/java/labs/First.java" />
+        <option value="$PROJECT_DIR$/src/main/java/course_plan" />
         <option value="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" />
         <option value="$PROJECT_DIR$/src/main/java/detail_plan" />
       </list>
@@ -227,7 +226,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jvmquarks" type="462c0819:PsiDirectoryNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
@@ -236,6 +235,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
@@ -283,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LockRoach">
+  <component name="RunManager" selected="Application.First">
     <configuration name="ArrayAlloc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvmquarks.forth.ArrayAlloc" />
       <module name="optimization" />
@@ -317,10 +317,16 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Caching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Caching" />
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab1.First" />
       <module name="optimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="LockRoach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvmquarks.first.LockRoach" />
@@ -375,19 +381,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Caching" />
       <item itemvalue="Application.Caching (1)" />
       <item itemvalue="Application.LockRoach" />
       <item itemvalue="Application.ByteArrayTouch" />
       <item itemvalue="Application.ArrayAlloc" />
+      <item itemvalue="Application.First" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.First" />
         <item itemvalue="Application.LockRoach" />
         <item itemvalue="Application.ArrayAlloc" />
         <item itemvalue="Application.ByteArrayTouch" />
         <item itemvalue="Application.Caching (1)" />
-        <item itemvalue="Application.Caching" />
       </list>
     </recent_temporary>
   </component>
@@ -402,15 +408,16 @@
       <option name="presentableId" value="Default" />
       <updated>1562934519806</updated>
       <workItem from="1562934522280" duration="5904000" />
-      <workItem from="1564222405107" duration="4734000" />
+      <workItem from="1564222405107" duration="7210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10638000" />
+    <option name="totallyTimeSpent" value="13114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -434,7 +441,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55151516" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15450644" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32978722" />
@@ -678,24 +685,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/First.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/course_plan">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/detail_plan">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/course_plan">
+    <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="84" />
+        <state relative-caret-position="174">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -788,6 +795,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: net.sf.jopt-simple:jopt-simple:4.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

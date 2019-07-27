@@ -1,13 +1,20 @@
 
 1 Introduction.Goals.Main tools
 
+Пререквизиты установить переменную Path  -  export PATH="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home:$PATH"
 
 
 ● Уровень системы
-▶ Сеть - neststat sar
+▶ Сеть - neststat, sar
+Основные команды  - https://putty.org.ru/articles/netstat-linux-examples.html
+netstat  - https://ru.wikipedia.org/wiki/Netstat
+
 ▶ Диск
+iostat - https://habr.com/ru/post/165855/
+
 ▶ Операционная система
 ▶ Процессор/память
+top  - https://ru.wikipedia.org/wiki/Top
 ● Уровень приложения
 ▶ Блокировки, синхронизация
 ▶ Execution Threads
@@ -18,4 +25,6 @@
 ▶ Cache optimizations
 ▶ Processor stalls
 ▶ Branch prediction
+
+
 
