@@ -2,7 +2,7 @@ Topics
 Theory
 1 Introduction.Goals.Main tools
 Shipilev https://www.youtube.com/watch?v=vF0lNnKCQM8&list=PLYj3Bx1JM6Y4SKbRIMkfEoPNXqSJ-qCWB&index=2
-Shipilev presentation https://shipilev.net/talks/jeeconf-May2012-perfMethodology.pdf
+Shipilev presentation
 2 GC tuning
 3 JMH
 4 Bytecode

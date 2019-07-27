@@ -1,12 +1,21 @@
 
-Operating System
-Performance Monitoring
-Definitions
- CPU Utilization
- CPU Scheduler
- Run Queue
- Memory Utilization
- Network
- I/O Utilization
- Disk I/O Utilization
+1 Introduction.Goals.Main tools
+
+
+
+● Уровень системы
+▶ Сеть - neststat sar
+▶ Диск
+▶ Операционная система
+▶ Процессор/память
+● Уровень приложения
+▶ Блокировки, синхронизация
+▶ Execution Threads
+▶ API
+▶ Алгоритмические проблемы
+● Микроархитектурный уровень
+▶ Code/data alignment
+▶ Cache optimizations
+▶ Processor stalls
+▶ Branch prediction
 
