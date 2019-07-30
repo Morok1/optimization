@@ -2,371 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f48f3e-500a-4f79-b8ed-d8ca2ac6ec46" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/labs/lab1/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/CacheTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/CacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/CacheTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/CacheTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/cache/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/compile/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/compile/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/compile/B-orig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/compile/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/compile/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/console/PrintWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/console/PrintWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/dict/Dict.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/dict/Dict.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/dict/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/RelayServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/RelayServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ClientMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ClientMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObject.idl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectCacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectCacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectOperations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/ServerObjectOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/_ServerObjectImplBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/_ServerObjectImplBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/_ServerObjectStub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/_ServerObjectStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/generate.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/startclient.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/corba/startserver.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ClientMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ClientMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/Generate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/GenericServerObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/GenericServerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ServerObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ServerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ServerObjectCacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ServerObjectCacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ServerObjectImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/ServerObjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/_ServerObjectCommunicator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/_ServerObjectCommunicator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/generate.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/startclient.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/custom/startserver.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ClientMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ClientMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ClientMain2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ClientMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ClientMain3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ClientMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecClientSocketFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecClientSocketFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecInputStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecOutputStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecServerSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecServerSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecServerSocketFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecServerSocketFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/CodecSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObjectCacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObjectCacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObjectImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObjectImpl_Skel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/ServerObjectImpl_Stub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/apppartitiontest.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/generate.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/javabin.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/startclient.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/startserver.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/rmi/startserver2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/distrib/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/CastTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/CastTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/ExceptionReuseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/ExceptionReuseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/TryCatchCostTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/TryCatchCostTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/TryCatchTimeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/TryCatchTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/VariableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/VariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/VariableTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/VariableTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/VariableTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/test4.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/exception/test5.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/floats/FloatTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/floats/FloatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/gc/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/gc/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/gc/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/HashsizeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/HashsizeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/SpecialKeyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/SpecialKeyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/StringWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/hashsize.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/hashsize.perl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/hash/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Bar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Bar1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Bar2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Bar3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Bar4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Bar5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo3Collection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/Foo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/IOTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/IOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/MyByteArrayOutputStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/MyDataOutputStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/SerializationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/SerializationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/TestTraceMethodCalls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/TestTraceMethodCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/io/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/ConvertTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/ConvertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/ExceptionDriven.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/ExceptionDriven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/File.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/FileSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/FileSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/LoopIteratorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/LoopIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/StringStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/SwitchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/SwitchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test4.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test5.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test6.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/loop/test7.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/MemoryMonitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/MemoryMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/MemorySampler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ObjectCreationMonitoring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ObjectCreationMonitoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ObjectCreationMonitoringFlag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ObjectCreationMonitoringFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ProfileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ProfileTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/ProfileTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profile/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileCalleeAggregate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileCalleeAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileCallerAggregate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileCallerAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileLine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileMethodClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileMethodClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/profview/ProfileStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/ThreadedAccess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/ThreadedAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/VectorPoolManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/VectorPoolManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/WeakRefTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/reuse/WeakRefTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/ActiveRequestQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/ActiveRequestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/FIFO_Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/PassiveRequestQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/PassiveRequestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/Request.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/RequestProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/RequestResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/SocketServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/SocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/TestQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/server/TestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/socket/SockInStreamLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/socket/SockInStreamLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/socket/SockOutStreamLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/socket/SockOutStreamLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/socket/SockStreamLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/socket/SockStreamLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/ArrayQuickSorter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Comparer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/ComparisonKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Flashsort1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Flashsort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Flashsort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Flashsort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/IntegerComparisonKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Magnitudes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Magnitudes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/RawIntComparer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/SortBuild.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/SortBuild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/SortBuildNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Sortable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/Sortable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/SortableComparer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/SortableComparer2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/sorting/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/Compare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/Compare2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/Compare2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/FilterComparison.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/FilterComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/Sorting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/WordCountComparison.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/WordCountComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/string/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/AppendConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/AppendConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/Appendable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/Appendable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/AppenderHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/AppenderHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/BooleanAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/BooleanAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/ByteAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/ByteAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/CharArrayAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/CharArrayAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/CharacterAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/CharacterAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/DoubleAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/DoubleAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/FloatAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/FloatAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/IntegerAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/IntegerAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/LongAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/LongAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/ObjectAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/ObjectAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/ShortAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/ShortAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/StringAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/StringAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/StringBufferWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/StringBufferWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/VectorAppender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/VectorAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/stringconvert/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/IntArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/ObjArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/PartialSearcher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/PartialSearcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/StringArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTree6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTreeNode0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTreeNode1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTreeNode2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTreeNode3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTreeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TernarySearchTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TypeTesting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/TypeTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/struct/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ActiveRequestQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ActiveRequestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Counter1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Counter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Counter2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Counter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Counter3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Counter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/CounterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/CounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Deadlock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Deadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ExplicitLocks1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ExplicitLocks1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ExplicitLocks2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ExplicitLocks2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/FIFO_Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ListTesting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ListTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/LoadBalancing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/LoadBalancing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/PaintTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/PaintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/PaintTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/PaintTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/PassiveRequestQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/PassiveRequestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/Request.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/RequestProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/RequestResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/SillyHttpServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/SynchTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/SynchTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ThreadRace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/ThreadRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/test1.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/test2.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/test3.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/threadsLoadBalancedThreads.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/tuning/threads/threadsParallelDownloadDelay.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labs/lab1/MonitoringGrossMemoryUsage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/detail_plan" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/detail_plan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -380,29 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ObjectCreationMonitoringFlag.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/tuning/profile/ObjectCreationMonitoringFlag.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#266#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemorySampler.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/tuning/profile/MemorySampler.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#1563#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ProfileCalleeAggregate.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/util/tuning/profview/ProfileCalleeAggregate.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -461,11 +75,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="First.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="First.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="21" column="97" selection-start-line="21" selection-start-column="97" selection-end-line="21" selection-end-column="97" />
+            <state relative-caret-position="189">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonitoringGrossMemoryUsage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/MonitoringGrossMemoryUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemoryMonitor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/util/tuning/profile/MemoryMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="179" column="37" lean-forward="true" selection-start-line="179" selection-start-column="37" selection-end-line="179" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -493,6 +125,7 @@
       <find>ObjectCreationMonitoring</find>
       <find>Test</find>
       <find>100</find>
+      <find>MemorySam</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -525,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/main/java/detail_plan" />
         <option value="$PROJECT_DIR$/src/main/java/labs/lab1/Second.java" />
         <option value="$PROJECT_DIR$/src/main/java/labs/lab1/First.java" />
+        <option value="$PROJECT_DIR$/src/main/java/labs/lab1/MonitoringGrossMemoryUsage.java" />
       </list>
     </option>
   </component>
@@ -559,82 +193,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="labs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="labs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="tuning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="tuning" type="462c0819:PsiDirectoryNode" />
-              <item name="compile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="tuning" type="462c0819:PsiDirectoryNode" />
-              <item name="console" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="tuning" type="462c0819:PsiDirectoryNode" />
-              <item name="reuse" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="optimization" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -720,7 +278,8 @@
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="labs.lab1.First" />
       <module name="optimization" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-verbosegc -Xprof" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="labs.lab1.*" />
@@ -808,16 +367,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562934519806</updated>
       <workItem from="1562934522280" duration="5904000" />
-      <workItem from="1564222405107" duration="9159000" />
+      <workItem from="1564222405107" duration="11404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15063000" />
+    <option name="totallyTimeSpent" value="17308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -841,7 +399,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55151516" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.09939394" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15450644" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32978722" />
@@ -868,8 +426,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/AgeCache.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/AtomicIntegerWithVarHandles.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/optimizing-java_1e_examples/bc/MHExample.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExample.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/MainAIVH.java" />
@@ -1182,8 +738,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="21" column="97" selection-start-line="21" selection-start-column="97" selection-end-line="21" selection-end-column="97" />
+        <state relative-caret-position="189">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/labs/lab1/MonitoringGrossMemoryUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/tuning/profile/MemoryMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="179" column="37" lean-forward="true" selection-start-line="179" selection-start-column="37" selection-end-line="179" selection-end-column="37" />
         </state>
       </provider>
     </entry>

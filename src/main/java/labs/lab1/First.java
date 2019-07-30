@@ -6,7 +6,7 @@ package labs.lab1;
  * and also includes some synchronous calls to the garbage collector:
  *
  */
-
+//-verbosegc
 public class First{
 
     private static final int LIMIT = 100;
