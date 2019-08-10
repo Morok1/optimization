@@ -1,0 +1,41 @@
+
+• Establish whether you have a memory problem.
+• Reduce the number of temporary objects being used, especially in loops.
+o Avoid creating temporary objects within frequently called methods.
+o Presize collection objects.
+o Reuse objects where possible.
+o Empty collection objects before reusing them. (Do not shrink them unless they are
+very large.)
+o Use custom conversion methods for converting between data types (especially
+strings and streams) to reduce the number of temporary objects.
+o Define methods that accept reusable objects to be filled in with data, rather than
+methods that return objects holding that data. (Or you can return immutable objects.) o Canonicalize objects wherever possible. Compare canonicalized objects by identity. o Create only the number of objects a class logically needs (if that is a small number of
+objects).
+o Replace strings and other objects with integer constants. Compare these integers by
+identity.
+o Use primitive data types instead of objects as instance variables. (In what case?)
+o Avoid creating an object that is only for accessing a method.  use static methods?
+o Flatten objects to reduce the number of nested objects. (some refactoring example)
+o Preallocate storage for large collections of objects by mapping the instance variables
+into multiple arrays.
+o Use StringBuffer rather than the string concatenation operator (+).
+- 96 -
+O’reilly - Java Performance Tuning
+o Use methods that alter objects directly without making copies.
+o Create or use specific classes that handle primitive data types rather than wrapping
+the primitive data types.
+• Consider using a ThreadLocal to provide threaded access to singletons with state.
+• Use the final modifier on instance-variable definitions to create immutable internally
+accessible objects.
+• Use WeakReferences to hold elements in large canonical lookup tables. (Use
+SoftReferences for cache elements.)
+• Reduce object-creation bottlenecks by targeting the object-creation process.
+o Keep constructors simple and inheritance hierarchies shallow. o Avoid initializing instance variables more than once.
+o Use the clone( ) method to avoid calling any constructors. o Clone arrays if that makes their creation faster.
+o Create copies of simple arrays faster by initializing them; create copies of complex arrays faster by cloning them.
+• Eliminate object-creation bottlenecks by moving object creation to an alternative time. o Create objects early, when there is spare time in the application, and hold those
+objects until required.
+o Use lazy initialization when there are objects or variables that may never be used, or
+when you need to distribute the load of creating objects.
+o Use lazy initialization only when there is a defined merit in the design, or when
+identifying a bottleneck which is alleviated using lazy initialization.
