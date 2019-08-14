@@ -39,3 +39,8 @@ o Use lazy initialization when there are objects or variables that may never be 
 when you need to distribute the load of creating objects.
 o Use lazy initialization only when there is a defined merit in the design, or when
 identifying a bottleneck which is alleviated using lazy initialization.
+
+
+
+For each statemnt consider code for refactroing (note: optimization refactoring not gurauntee,
+design refactoring)
