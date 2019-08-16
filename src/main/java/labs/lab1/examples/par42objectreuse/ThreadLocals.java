@@ -4,24 +4,38 @@ package labs.lab1.examples.par42objectreuse;
 
 //references
 //http://samolisov.blogspot.com/2011/04/threadlocal.html
+//https://articles.javatalks.ru/articles/17
 /*
 Рассмотрим следующую задачу: нужно написать многопоточное приложение, в котором
 каждый поток участвует в построении некоторой структуры данных внутри некоторого класса-билдера,
  при этом хочется отследить сколько записей в структуре построил тот или иной поток.*/
 
-public class ThreadLocals {
-    public static int[] array = new int[10];
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.CopyOnWriteArrayList;
 
+public class ThreadLocals {
+    private static List<Integer> integerList = new ArrayList<>();
+
+    private static Map<String, Integer> map = new ConcurrentHashMap<>();
 
     public static void main(String[] args) {
 
+
+        MyThread myThread1 = new MyThread(integerList, map);
+        MyThread myThread2 = new MyThread(integerList, map);
     }
 
-    public class MyThread implements Runnable{
-        private int[] array;
+    public static class MyThread implements Runnable{
+        private ThreadLocal<Integer> counter;
+        private List<Integer> integerList;
+        private Map<String, Integer> map;
 
-        public MyThread(int[] array) {
-            this.array = array;
+        public MyThread(List<Integer> integers, Map<String, Integer> map) {
+            this.integerList = integers;
+            this.map = map;
         }
 
         @Override
