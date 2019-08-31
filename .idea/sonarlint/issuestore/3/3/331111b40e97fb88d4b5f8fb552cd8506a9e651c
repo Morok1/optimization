@@ -1,0 +1,48 @@
+
+‡ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾íúûúÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(Û± Êÿÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+Msquid:S1197"8Move the array designator from the variable to the type.(†Õ“
+Msquid:S1197"8Move the array designator from the variable to the type.(Œğ‰¥
+Msquid:S1197"8Move the array designator from the variable to the type.(Œğ‰¥
+Msquid:S1197"8Move the array designator from the variable to the type.(Œğ‰¥
+csquid:S1192"ODefine a constant instead of duplicating this literal " lines (chars " 6 times.(ˆôn
+fsquid:S1192"RDefine a constant instead of duplicating this literal "Time for reading " 6 times.(ˆôn
+0squid:S3626"Remove this redundant jump.(ûÁİ…
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’€ç½ÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÔÍøäşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ª †²ùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïŸ­Ñ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆôn
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(™Í“Ô
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çô€Ï
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷—‡·
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(·©û‡úÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(·©û‡úÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ñ°¹ø
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¦œ’øÿÿÿÿ
+Vsquid:CallToDeprecatedMethod"0Remove this use of "readLine"; it is deprecated.(µ‚¤
+Vsquid:CallToDeprecatedMethod"0Remove this use of "readLine"; it is deprecated.(µ‚¤
+Vsquid:CallToDeprecatedMethod"0Remove this use of "readLine"; it is deprecated.(µ‚¤
+>squid:S1172")Remove this unused method parameter "ac".(†Õ“
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+[squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÒ‰ÿÿÿÿÿ
+7squid:S2386"Make this member "protected".(Û± Êÿÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‡á¸üÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÜáö
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‡á¸üÿÿÿÿ
+Rsquid:UselessImportCheck"0Remove this unused import 'java.io.PrintStream'.(×ê’
+Xsquid:UselessImportCheck"6Remove this unused import 'java.io.FilterInputStream'.(´Òçé
+Xsquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ
+8squid:S1148"#Use a logger to log this exception.(òçøì

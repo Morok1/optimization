@@ -1,0 +1,7 @@
+JMH S 25 jvmquarks.first.LockRoach S 48 jvmquarks.first.generated.LockRoach_test_jmhTest S 4 test S 11 AverageTime E A 1 1 1 E I 2 10 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E L 1 21 -XX:-UseBiasedLocking E E U 11 NANOSECONDS E E 
+JMH S 39 labs.lab1.checklist.CompareWithIdentity S 71 labs.lab1.checklist.generated.CompareWithIdentity_test_equality_jmhTest S 13 test_equality S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 26 jvmquarks.forth.ArrayAlloc S 49 jvmquarks.forth.generated.ArrayAlloc_test_jmhTest S 4 test S 14 SingleShotTime E A 1 1 1 E I 1 3 E E I 1 3 E E I 1 3 E E E E E E U 12 MILLISECONDS E E 
+JMH S 39 labs.lab1.checklist.CompareWithIdentity S 71 labs.lab1.checklist.generated.CompareWithIdentity_test_identity_jmhTest S 13 test_identity S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 31 jvmquarks.second.ByteArrayTouch S 54 jvmquarks.second.generated.ByteArrayTouch_test_jmhTest S 4 test S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 3 E E E E L 2 6 -Xmx1g 6 -Xms1g M 1 4 size 5 4 1000 5 10000 7 1000000 8 10000000 9 100000000 U 11 NANOSECONDS E E 
+JMH S 35 labs.lab1.checklist.UseStringBuffer S 68 labs.lab1.checklist.generated.UseStringBuffer_useSumOperator_jmhTest S 14 useSumOperator S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 35 labs.lab1.checklist.UseStringBuffer S 70 labs.lab1.checklist.generated.UseStringBuffer_userStringBuffer_jmhTest S 16 userStringBuffer S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 

@@ -1,0 +1,15 @@
+
+Dsquid:S00108")Either remove or fill this block of code.(˜Õµüÿÿÿÿ
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ñ®¥ˆÿÿÿÿÿ
+Dsquid:S00108")Either remove or fill this block of code.(”Êõ©ıÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(¢ÀÛŸøÿÿÿÿ
+zsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ñôĞ
+8squid:S1148"#Use a logger to log this exception.(Â“å´
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Â»Ô©ùÿÿÿÿ
+ksquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(İòÃÓ
+Osquid:S1141"5Extract this nested try block into a separate method.(”Êõ©ıÿÿÿÿ
+ksquid:S3008"VRename this field "ThreadCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßİØÈ
+zsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ÿâ›©
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ
+zsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬¤§ú

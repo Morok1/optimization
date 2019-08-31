@@ -1,0 +1,52 @@
+
+qsquid:S3008"URename this field "cache_keys" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜©¢×şÿÿÿÿ
+8squid:S2129="!Remove this "Integer" constructor(ò›µ‰
+7squid:S2129A"!Remove this "Integer" constructor(Õ¹°	
+<squid:S1659B" Declare "o8" on a separate line.(•¨úâûÿÿÿÿ
+msquid:S1149
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ö‹çÆ
+Csquid:S1481B"'Remove this unused "o5" local variable.(•¨úâûÿÿÿÿ
+=squid:S21299"!Remove this "Integer" constructor(„ÃÀƒùÿÿÿÿ
+<squid:S1659B" Declare "o9" on a separate line.(•¨úâûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†€©ûÿÿÿÿ
+ssquid:S3008	"WRename this field "cache_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ŒÇ±ûÿÿÿÿ
+8squid:S2129>"!Remove this "Integer" constructor(´ñé
+;squid:S2676%"Use the original value instead.(ÍÃ¥ûÿÿÿÿ
+fsquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¸¨„
+7squid:S2129?"!Remove this "Integer" constructor(Ø€b
+Csquid:S1481B"'Remove this unused "o4" local variable.(•¨úâûÿÿÿÿ
+8squid:S2129;"!Remove this "Integer" constructor(æŸ ú
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÒúÿÿÿÿ
+=squid:S2129@"!Remove this "Integer" constructor(©¤–’ûÿÿÿÿ
+<squid:S1659B" Declare "o3" on a separate line.(•¨úâûÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ß¨6
+Csquid:S1481B"'Remove this unused "o6" local variable.(•¨úâûÿÿÿÿ
+:squid:S1148"#Use a logger to log this exception.(Â“å´
+8squid:S2129:"!Remove this "Integer" constructor(şö”â
+8squid:S2129<"!Remove this "Integer" constructor(©íœò
+Csquid:S1481B"'Remove this unused "o0" local variable.(•¨úâûÿÿÿÿ
+<squid:S1659B" Declare "o4" on a separate line.(•¨úâûÿÿÿÿ
+Csquid:S1481B"'Remove this unused "o1" local variable.(•¨úâûÿÿÿÿ
+8squid:S2129"!Remove this "Integer" constructor(é»ö
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+<squid:S1659B" Declare "o5" on a separate line.(•¨úâûÿÿÿÿ
+Csquid:S1481B"'Remove this unused "o3" local variable.(•¨úâûÿÿÿÿ
+Csquid:S1481B"'Remove this unused "o2" local variable.(•¨úâûÿÿÿÿ
+<squid:S1659B" Declare "o6" on a separate line.(•¨úâûÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(åßú÷
+8squid:S2129"!Remove this "Integer" constructor(é»ö
+T
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ıÀñËûÿÿÿÿ
+<squid:S1659B" Declare "o2" on a separate line.(•¨úâûÿÿÿÿ
+Csquid:S1481B"'Remove this unused "o9" local variable.(•¨úâûÿÿÿÿ
+<squid:S1659B" Declare "o7" on a separate line.(•¨úâûÿÿÿÿ
+Csquid:S1481B"'Remove this unused "o7" local variable.(•¨úâûÿÿÿÿ
+ksquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¡Øõşÿÿÿÿ
+=squid:S21298"!Remove this "Integer" constructor(ôËØÀøÿÿÿÿ
+T
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ØŞ¸şÿÿÿÿ
+Csquid:S1481B"'Remove this unused "o8" local variable.(•¨úâûÿÿÿÿ
+<squid:S1659B" Declare "o0" on a separate line.(•¨úâûÿÿÿÿ

@@ -1,0 +1,6 @@
+
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šƒùûÿÿÿÿ8ÄíÁÇ-
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½Œ¬±øÿÿÿÿ8ÄíÁÇ-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÃÑúó8ÄíÁÇ-
+Osquid:S1481",Remove this unused "string3" local variable.(³“Ïèøÿÿÿÿ8ÄíÁÇ-
+fsquid:UselessImportCheck"6Remove this unused import 'jvmquarks.first.LockRoach'.(—ÍÊÿÿÿÿÿ8ÄíÁÇ-

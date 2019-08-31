@@ -2,20 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f48f3e-500a-4f79-b8ed-d8ca2ac6ec46" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/labs/1lab.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/labs/lab1/examples/par5string/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/course_plan" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/course_plan.md" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/optimization1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labs/Lab1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labs/Lab2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labs/Lab3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/books/Charlie Hunt, Binu John - Java Performance - 2011.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/Charlie Hunt, Binu John - Java Performance - 2011.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/books/JMH_cheatsheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/JMH_cheatsheet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/books/Java_Performance-_The_Definitive_Guide_proglib.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/Java_Performance-_The_Definitive_Guide_proglib.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/books/OReilly - Java Performance Tuning.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/OReilly - Java Performance Tuning.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/books/Копия Java оптимизация программ.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/Копия Java оптимизация программ.pdf" afterDir="false" />
+>>>>>>> fa8d1be3ad9b6a62f734ca7d230881f5ccfaea0d
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Test.class" pinned="false" current-in-tab="false">
@@ -92,6 +105,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> fa8d1be3ad9b6a62f734ca7d230881f5ccfaea0d
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -112,6 +127,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -166,6 +182,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+=======
+>>>>>>> fa8d1be3ad9b6a62f734ca7d230881f5ccfaea0d
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -174,6 +192,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -266,26 +285,44 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+=======
+  <component name="ProjectId" id="1Q9HLwh5yFigAFMI4VNSgAr4yns" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> fa8d1be3ad9b6a62f734ca7d230881f5ccfaea0d
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/labs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14965986" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="labs.lab1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/labs" />
+      <recent name="$PROJECT_DIR$/src/main/java/labs/lab1" />
       <recent name="$PROJECT_DIR$/src/util" />
       <recent name="$PROJECT_DIR$/src/main/java/books" />
       <recent name="$PROJECT_DIR$/src/main/java/os" />
-      <recent name="$PROJECT_DIR$/src/main/java/jvmquarks" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/labs" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/java/books" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="labs.lab1.examples.par42objectreuse" />
@@ -319,6 +356,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CompareWithIdentity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="labs.lab1.checklist.CompareWithIdentity" />
@@ -330,6 +370,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="labs.lab1.examples.First" />
@@ -342,6 +385,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="LockRoach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvmquarks.first.LockRoach" />
@@ -353,6 +399,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="UseStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="labs.lab1.checklist.UseStringBuffer" />
@@ -364,47 +413,31 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.Caching (1)" />
@@ -438,6 +471,7 @@
       <workItem from="1564474876293" duration="49000" />
       <workItem from="1565383845739" duration="5187000" />
       <workItem from="1565450047196" duration="125000" />
+<<<<<<< HEAD
       <workItem from="1565626239519" duration="11418000" />
       <workItem from="1567270993690" duration="415000" />
       <workItem from="1567271911401" duration="330000" />
@@ -766,6 +800,26 @@
         </state>
       </provider>
     </entry>
+=======
+      <workItem from="1565626239519" duration="8482000" />
+      <workItem from="1567175845522" duration="780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> fa8d1be3ad9b6a62f734ca7d230881f5ccfaea0d
   </component>
   <component name="masterDetails">
     <states>

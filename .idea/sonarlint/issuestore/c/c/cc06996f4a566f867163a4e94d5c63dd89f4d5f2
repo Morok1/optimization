@@ -1,0 +1,16 @@
+
+Csquid:S1481"'Remove this unused "i3" local variable.(÷¥¸ë8ñŠÇİÇ-
+Csquid:S1481"'Remove this unused "i7" local variable.(ŸĞÅú8ñŠÇİÇ-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øéåĞ8ñŠÇİÇ-
+Bsquid:S2129"!Remove this "Integer" constructor(©²á±ùÿÿÿÿ8ñŠÇİÇ-
+?squid:S1148"#Use a logger to log this exception.(Â“å´8ñŠÇİÇ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œáéŠ8ñŠÇİÇ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿîô¤şÿÿÿÿ8ñŠÇİÇ-
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ·ì8ñŠÇİÇ-
+Bsquid:S2129"!Remove this "Integer" constructor(©²á±ùÿÿÿÿ8ñŠÇİÇ-
+Hsquid:S1481"'Remove this unused "i4" local variable.(±¢Ì°şÿÿÿÿ8ñŠÇİÇ-
+Hsquid:S1481"'Remove this unused "i6" local variable.(ã÷ˆúüÿÿÿÿ8ñŠÇİÇ-
+Bsquid:S1481"'Remove this unused "i5" local variable.(èı8ñŠÇİÇ-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œœÔ‘ÿÿÿÿÿ8ñŠÇİÇ-

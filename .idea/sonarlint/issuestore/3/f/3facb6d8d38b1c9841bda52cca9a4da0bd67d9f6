@@ -1,0 +1,10 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(´ì·øüÿÿÿÿ8€åàÉ-
+Dsquid:S1170"!Make this final field static too.(†Õ®àÿÿÿÿÿ8æ“‚ÚÉ-
+?squid:S2129"!Remove this "Integer" constructor(«¯ïƒ8€åàÉ-
+Hsquid:S1068"%Remove this unused "a" private field.(†Õ®àÿÿÿÿÿ8æ“‚ÚÉ-
+Dsquid:S1170"!Make this final field static too.(ôá“Ñúÿÿÿÿ8æ“‚ÚÉ-
+Hsquid:S1068"%Remove this unused "b" private field.(ôá“Ñúÿÿÿÿ8æ“‚ÚÉ-
+Dsquid:S2129
+"!Remove this "Integer" constructor(îö¬…üÿÿÿÿ8€åàÉ-
+?squid:S2129	"!Remove this "Integer" constructor(ÆÎÖÒ8€åàÉ-

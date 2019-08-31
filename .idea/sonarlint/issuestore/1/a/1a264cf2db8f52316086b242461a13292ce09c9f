@@ -1,0 +1,9 @@
+
+®%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78õ°šÂÇ-
+rsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8õ°šÂÇ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðº£¾øÿÿÿÿ8õ°šÂÇ-
+Gsquid:S1481")Remove this unused "SIZE" local variable.(µÕÏî8õ°šÂÇ-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÕÏî8õ°šÂÇ-
+Tsquid:S1153"1Directly append the argument of String.valueOf().(ðº£¾øÿÿÿÿ8õ°šÂÇ-
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8õ°šÂÇ-

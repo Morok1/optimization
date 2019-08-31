@@ -1,0 +1,7 @@
+
+Jsquid:S1068!"'Remove this unused "map" private field.(¿Áâ‡üÿÿÿÿ8Ş§¬µÉ-
+Rsquid:S1068 "/Remove this unused "integerList" private field.(Ÿ¬ëêÿÿÿÿÿ8òœŸµÉ-
+Qsquid:S1481".Remove this unused "myThread2" local variable.(³§ª¯ÿÿÿÿÿ8»Ğ°ÓÉ-
+Isquid:S1068"+Remove this unused "counter" private field.(”Ã¥á8Æê‰µÉ-
+Qsquid:S1481".Remove this unused "myThread1" local variable.(ë®œşÿÿÿÿ8‰•¤ÓÉ-
+Ÿsquid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8§Ší‰É-

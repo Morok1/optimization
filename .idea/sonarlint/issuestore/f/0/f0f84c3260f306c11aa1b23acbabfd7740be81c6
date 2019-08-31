@@ -1,0 +1,38 @@
+
+Rsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+nsquid:S3008"YRename this field "MonitoringMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‹ëà
+nsquid:S3008"YRename this field "StackModeCount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à˜õ
+isquid:S3008"ORename this field "Hash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢á²ñşÿÿÿÿ
+gsquid:S3008"MRename this field "Ex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÍ¡Õÿÿÿÿÿ
+qsquid:S3008"WRename this field "MyByteStream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÈÃÚşÿÿÿÿ
+msquid:S3008"XRename this field "MyPrintStream" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÈî·
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(éöªÜ
+lsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¦ÓÛá
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¾F
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ¾Ô´úÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(éöªÜ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”¶¼§
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û‚öà
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(İˆ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¨Áœùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(âèç«
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(½¢Ó
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+psquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¢á²ñşÿÿÿÿ
+;squid:S2129"!Remove this "Integer" constructor(£§Ÿüùÿÿÿÿ
+6squid:S2129"!Remove this "Integer" constructor(¾¿á˜
+;squid:S2129"!Remove this "Integer" constructor(£§Ÿüùÿÿÿÿ
+6squid:S2129"!Remove this "Integer" constructor(¾¿á˜

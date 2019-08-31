@@ -1,0 +1,6 @@
+
+bsquid:HiddenFieldCheck!"9Rename "isUse" which hides the field declared at line 10.(¦¾É®8ì“ı÷È-
+Isquid:S1168)"+Return an empty collection instead of null.(¥¹ï8­ÌæÈ-
+Lsquid:S1481 ".Remove this unused "old_isUse" local variable.(¿³ÀÛ8Ÿ‰ãæÈ-
+psquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿³ÀÛ8Ÿ‰ãæÈ-
+jsquid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(éâ¦ßûÿÿÿÿ8ô¬Ï‡É-

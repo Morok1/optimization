@@ -1,0 +1,7 @@
+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ğ‡†8’˜¸ÊÇ-
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éËïÁúÿÿÿÿ8óşãÉÇ-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ş€ûÿÿÿÿ8ˆÌ³ÊÇ-
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ€‘óúÿÿÿÿ8†Î²ÊÇ-
+Lsquid:S1481"+Remove this unused "result" local variable.(ıÑ±ıÿÿÿÿ8İœ³ÊÇ-
+Lsquid:S1481"+Remove this unused "result" local variable.(ñÊıøıÿÿÿÿ8’˜¸ÊÇ-

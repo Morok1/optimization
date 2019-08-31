@@ -1,0 +1,369 @@
+
+Xsquid:UnusedPrivateMethod"0Remove this unused private "magnitude_i" method.(†•ôæøÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+=squid:S1659"#Declare "time2" on a separate line.(€¬‹ïÿÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¢ŒÊ
+Rsquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+isquid:S1192"ODefine a constant instead of duplicating this literal "Starting test" 18 times.(Š‘­Úûÿÿÿÿ
+ssquid:S1192"YDefine a constant instead of duplicating this literal "  The StringBuffer took " 9 times.(ÿ®§şÿÿÿÿ
+]squid:S1192"HDefine a constant instead of duplicating this literal " times." 9 times.(Úì€õ
+dsquid:S1192"ODefine a constant instead of duplicating this literal " milliseconds" 18 times.(¤ĞñÕ
+€squid:S1192"kDefine a constant instead of duplicating this literal "are appended to a StringBuffer one by one " 9 times.(Úì€õ
+¸squid:S1192"¢Define a constant instead of duplicating this literal "    For checking purposes, the StringBuffer & Appender output of one iteration is (respectively):" 9 times.( ¤ç†
+nsquid:S1192"YDefine a constant instead of duplicating this literal "  The Appender     took " 9 times.(¤ĞñÕ
+nsquid:S3008"TRename this field "SINGLETON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì—Áıÿÿÿÿ
+msquid:S3008"XRename this field "DEFAULT_DEPTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÕ‡‡
+Msquid:S1068"3Remove this unused "doubleFractMask" private field.(„Ä¥Éşÿÿÿÿ
+Gsquid:S1068"2Remove this unused "floatFractMask" private field.(½˜¥±
+Isquid:S1444"/Make this "public static SINGLETON" field final(Ì—Áıÿÿÿÿ
+Hsquid:S1444"3Make this "public static DEFAULT_DEPTH" field final(îÕ‡‡
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+nsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(•³Ãó
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(”êğüÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ì‘ıŠøÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰Ÿÿ¾ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‚Ôè¯ıÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(è©ªÿüÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰Ÿÿ¾ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ûå¯Ûúÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÀÃ®Ûÿÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(è©ªÿüÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰Ÿÿ¾ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ú£Ñ±ıÿÿÿÿ
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¾Ëâ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÀÃ®Ûÿÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(è©ªÿüÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰Ÿÿ¾ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¸È²ï
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‡‚»®
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¾Ëâ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÀÃ®Ûÿÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(è©ªÿüÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰Ÿÿ¾ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¬Üö¤ùÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(…úÊ¸ÿÿÿÿÿ
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‡‚»®
+\$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¾Ëâ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ÀÃ®Ûÿÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(è©ªÿüÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(‰Ÿÿ¾ûÿÿÿÿ
+a$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ñ²¹°ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ÉÏıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(áœ”Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úì€õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ĞñÕ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š‘­Úûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ®§şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¤ç†
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ş·í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"UMake SINGLETON a static final constant or non-public and provide accessors if needed.(Ì—Áıÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"YMake DEFAULT_DEPTH a static final constant or non-public and provide accessors if needed.(îÕ‡‡
+=squid:S1481"(Remove this unused "mag" local variable.(Ûë°ª
+Dsquid:S1481"*Remove this unused "time1" local variable.(€¬‹ïÿÿÿÿÿ
+Dsquid:S1481"*Remove this unused "time2" local variable.(€¬‹ïÿÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(îŸ£Şúÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(Šœ¶Éøÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Åñ ’
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙúŞ¬ıÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†•ôæøÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò°…ª
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÄÉûÿÿÿÿ
+csquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ù·
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ø•ªûÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚èû’şÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷á£ê
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢”åçûÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥£Êë
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÔ¾§
+Dsquid:S00108")Either remove or fill this block of code.( äÍİûÿÿÿÿ
+2squid:S2386"Make this member "protected".(¿Œ†Ï
+2squid:S2386"Make this member "protected".(²ÂÅª
+7squid:S2386"Make this member "protected".(Û€ÌÇøÿÿÿÿ
+7squid:S2386"Make this member "protected".(ó¾¦‚üÿÿÿÿ
+7squid:S2386"Make this member "protected".(™ˆå“üÿÿÿÿ
+2squid:S2386"Make this member "protected".(¨É¦Ù
+2squid:S2386"Make this member "protected".(£öü
+2squid:S2386"Make this member "protected".(ÏÁˆï
+7squid:S2386"Make this member "protected".(ÜŒû¼üÿÿÿÿ
+2squid:S2386"Make this member "protected".(ô° Ì
+2squid:S2386"Make this member "protected".(şÚ¨İ
+2squid:S2386"Make this member "protected".(øßçæ
+osquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ï ëC
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İõéÓ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„Ä¥Éşÿÿÿÿ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤­˜úÿÿÿÿ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú›Ïøÿÿÿÿ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æş¬ã
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö‚˜Ïøÿÿÿÿ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½˜¥±
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûåüˆÿÿÿÿÿ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(µĞşó
+ksquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Ôîâ
+ksquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¼ ê
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÈÍµ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Üö¸„üÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ã¤„ó
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(îŸ£Şúÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Šœ¶Éøÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(üİ°¸øÿÿÿÿ
+ssquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“‘Èz
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ö²Áá
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½¿öÄüÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“¢Æ©
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(İ¿Ş³ûÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùÒ†©ıÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“Ğèüÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡†Ášÿÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÏçÉé
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(­íÛ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùª‰ùÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¦Õ–Ãüÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ï‡Üüúÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ıáÜ¸üÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(³çĞŸøÿÿÿÿ
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³çĞŸøÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ê ¿
+zsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ê ¿
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(îä§´ÿÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÅøÊ†
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¢ŒÊ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(›Œ¸æùÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ

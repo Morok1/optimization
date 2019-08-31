@@ -1,0 +1,16 @@
+
+isquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+isquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿éôòÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó¥ìÒùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿éôòÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó¥ìÒùÿÿÿÿ
+@squid:S1481"&Remove this unused "v" local variable.(ÇÔ’åıÿÿÿÿ
+Bsquid:S1481"(Remove this unused "arr" local variable.(ƒ¨ÀŞÿÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÈ÷²üÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ä ¹øÿÿÿÿ
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÇÔ’åıÿÿÿÿ

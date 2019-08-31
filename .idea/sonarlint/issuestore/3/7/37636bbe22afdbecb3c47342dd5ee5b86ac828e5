@@ -1,0 +1,117 @@
+
+… squid:ForLoopCounterChangedCheckï"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠêÒ
+… squid:ForLoopCounterChangedCheck†"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠêÒ
+… squid:ForLoopCounterChangedCheck¡"XRefactor the code in order to not assign to this loop counter from within the loop body.(„©Íğ
+… squid:ForLoopCounterChangedCheckö"XRefactor the code in order to not assign to this loop counter from within the loop body.(„©Íğ
+… squid:ForLoopCounterChangedCheck‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠêÒ
+… squid:ForLoopCounterChangedCheckœ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠêÒ
+… squid:ForLoopCounterChangedCheck­"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠêÒ
+… squid:ForLoopCounterChangedCheck»"XRefactor the code in order to not assign to this loop counter from within the loop body.(â´­”
+… squid:ForLoopCounterChangedCheckÈ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŠêÒ
+Š squid:ForLoopCounterChangedCheckÖ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ûñ‡ûúÿÿÿÿ
+… squid:ForLoopCounterChangedChecké"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôú”Ê
+„ squid:ForLoopCounterChangedCheckş"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡¸ÇA
+… squid:ForLoopCounterChangedCheck­"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôú”Ê
+„ squid:ForLoopCounterChangedCheckİ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¡¸ÇA
+Usquid:S1197ç"8Move the array designator from the variable to the type.(¦úåüÿÿÿÿ
+Usquid:S1197ç"8Move the array designator from the variable to the type.(¦úåüÿÿÿÿ
+Psquid:S1197ø"8Move the array designator from the variable to the type.(é®ì
+Psquid:S1197ø"8Move the array designator from the variable to the type.(é®ì
+Usquid:S1197’"8Move the array designator from the variable to the type.(ï¬Âìüÿÿÿÿ
+Usquid:S1197’"8Move the array designator from the variable to the type.(ï¬Âìüÿÿÿÿ
+Osquid:S1197¬"8Move the array designator from the variable to the type.(Î‰ù0
+Osquid:S1197¬"8Move the array designator from the variable to the type.(Î‰ù0
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(İ»ì´ùÿÿÿÿ
+Usquid:S1197ƒ"8Move the array designator from the variable to the type.(İ»ì´ùÿÿÿÿ
+Psquid:S1197”"8Move the array designator from the variable to the type.(çØ™§
+Psquid:S1197”"8Move the array designator from the variable to the type.(çØ™§
+Psquid:S1197¥"8Move the array designator from the variable to the type.(Ñ‡ÚÏ
+Psquid:S1197¥"8Move the array designator from the variable to the type.(Ñ‡ÚÏ
+Psquid:S1197³"8Move the array designator from the variable to the type.(Æ‚¯ì
+Psquid:S1197³"8Move the array designator from the variable to the type.(Æ‚¯ì
+Osquid:S1197À"8Move the array designator from the variable to the type.(éÏ×#
+Osquid:S1197À"8Move the array designator from the variable to the type.(éÏ×#
+Psquid:S1197Î"8Move the array designator from the variable to the type.(×œí
+Psquid:S1197Î"8Move the array designator from the variable to the type.(×œí
+Usquid:S1197Û"8Move the array designator from the variable to the type.(Ìİ‚®øÿÿÿÿ
+Usquid:S1197Û"8Move the array designator from the variable to the type.(Ìİ‚®øÿÿÿÿ
+Psquid:S1197ğ"8Move the array designator from the variable to the type.(ö–éõ
+Psquid:S1197ğ"8Move the array designator from the variable to the type.(ö–éõ
+Psquid:S1197…"8Move the array designator from the variable to the type.(ğÜ×ş
+Psquid:S1197…"8Move the array designator from the variable to the type.(ğÜ×ş
+Psquid:S1197µ"8Move the array designator from the variable to the type.(¹£ì„
+Psquid:S1197µ"8Move the array designator from the variable to the type.(¹£ì„
+nsquid:S3008æ"QRename this field "REPEAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¹¼ãúÿÿÿÿ
+Isquid:S1444æ",Make this "public static REPEAT" field final(¼¹¼ãúÿÿÿÿ
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(»’Ùí
+U
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Š‡±”ûÿÿÿÿ
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(£’ù¢üÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ª¿Ìùÿÿÿÿ
+P
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ŒÖî¾
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(ŠÈùÿÿÿÿ
+U
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(±ÈúÊúÿÿÿÿ
+U
+squid:S106§"9Replace this use of System.out or System.err by a logger.(í’ê¤ùÿÿÿÿ
+P
+squid:S106­"9Replace this use of System.out or System.err by a logger.(‡®äÜ
+P
+squid:S106³"9Replace this use of System.out or System.err by a logger.(±Æ›¦
+U
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(¦ƒĞ›ıÿÿÿÿ
+P
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(­ˆ§Ø
+P
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(›ö¯¢
+P
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ÛÉº
+O
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(àÆó
+†"squid:ClassVariableVisibilityCheckæ"RMake REPEAT a static final constant or non-public and provide accessors if needed.(¼¹¼ãúÿÿÿÿ
+isquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(Î‰ù0
+osquid:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(» ®ÿÿÿÿÿ
+^squid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112è"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112ù"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112§"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112ş"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112­"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112•"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112¬"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112¦"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112´"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112Ç"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112Á"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112Õ"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112ì"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112Ü"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112ñ"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112±"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112†"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+^squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+dsquid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(°÷ÇÎÿÿÿÿÿ
+4squid:S2386o"Make this member "protected".(Êç“Ç
+4squid:S2386"Make this member "protected".(¤å¢
+:squid:S2386"Make this member "protected".(‰û„“üÿÿÿÿ
+5squid:S2386¬"Make this member "protected".(è¤¥
+5squid:S2386É"Make this member "protected".(©²®
+@squid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1264½",Replace this "for" loop with a "while" loop.(¸÷É©
+Dsquid:S1264ê",Replace this "for" loop with a "while" loop.(¸÷É©
+Dsquid:S1264•",Replace this "for" loop with a "while" loop.(¸÷É©
+Dsquid:S1264¤",Replace this "for" loop with a "while" loop.(¸÷É©
+Dsquid:S1264Å",Replace this "for" loop with a "while" loop.(¸÷É©
+Dsquid:S1264Ô",Replace this "for" loop with a "while" loop.(¸÷É©
